@@ -1,7 +1,7 @@
 # ChillFlix - Netflix Clone React App
 
 A modern Netflix-inspired movie discovery app built with React, Vite, TailwindCSS, and Appwrite. Search for movies, view trending picks, and enjoy a beautiful, responsive UI.
-
+##Demo: https://beamish-stardust-0af66e.netlify.app/
 ## Features
 
 - 🔍 **Movie Search**: Search for movies using The Movie Database (TMDb) API.
@@ -51,7 +51,6 @@ A modern Netflix-inspired movie discovery app built with React, Vite, TailwindCS
    # or
    yarn dev
    ```
-   The app will be available at [http://localhost:5173](http://localhost:5173).
 
 ## Project Structure
 
