@@ -81,3 +81,4 @@ A modern Netflix-inspired movie discovery app built with React, Vite, TailwindCS
 
 
 
+# movie-store-web
