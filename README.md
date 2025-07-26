@@ -11,6 +11,7 @@ A modern Netflix-inspired movie discovery app built with React, Vite, TailwindCS
 - 🔍 **Real-time Movie Search**: Search for movies using The Movie Database (TMDb) API with debounced input.
 - 📈 **Trending Analytics**: See the top trending movies based on user searches tracked via Appwrite backend.
 - 🎬 **Rich Movie Cards**: View comprehensive movie details including title, rating, language, release year, and poster.
+- 🎭 **Movie Details Page**: Detailed movie information with overview, genres, runtime, and high-quality poster display.
 - ⚡ **Modern UI/UX**: Built with React 19, Vite, and TailwindCSS for instant feedback and a sleek, responsive design.
 - ☁️ **Cloud Backend**: Appwrite integration for real-time search popularity tracking and trending movie analytics.
 - 🌀 **Smooth UX**: Loading states, error handling, and responsive design for optimal user experience.
@@ -87,6 +88,10 @@ movie-store-web/
 │   │   ├── MovieCard.jsx      # Movie display component
 │   │   ├── Search.jsx         # Search input component
 │   │   └── Spinner.jsx        # Loading spinner component
+│   ├── pages/
+│   │   └── MovieDetails.jsx   # Detailed movie information page
+│   ├── assets/
+│   │   └── react.svg          # React logo and other assets
 │   ├── App.jsx                # Main application component
 │   ├── appwrite.js            # Appwrite backend integration
 │   ├── index.css              # Global styles and TailwindCSS
@@ -152,6 +157,14 @@ movie-store-web/
 - Star ratings with visual indicators
 - Language and year display
 - Responsive grid layout
+
+### Movie Details Page
+- Detailed movie information display
+- High-quality poster images
+- Movie overview and tagline
+- Genre tags and metadata
+- Runtime, rating, and release year
+- Responsive two-column layout
 
 ## Credits
 
