@@ -1,7 +1,11 @@
 # ChillFlix - Netflix Clone React App
 
 A modern Netflix-inspired movie discovery app built with React, Vite, TailwindCSS, and Appwrite. Search for movies, view trending picks, and enjoy a beautiful, responsive UI.
-## Demo: https://beamish-stardust-0af66e.netlify.app/
+
+## Demo
+
+**[Live Demo on Netlify](https://beamish-stardust-0af66e.netlify.app/)**
+
 ## Features
 
 - 🔍 **Movie Search**: Search for movies using The Movie Database (TMDb) API.
@@ -11,17 +15,11 @@ A modern Netflix-inspired movie discovery app built with React, Vite, TailwindCS
 - ☁️ **Appwrite Integration**: Tracks search popularity and trending movies in real time.
 - 🌀 **Loading States**: Smooth loading spinners and error handling.
 
-## Demo
-
-**[Live Demo on Netlify](https://beamish-stardust-0af66e.netlify.app/)**
-
 ## Screenshots
 
-<img width="1436" height="901" alt="Screenshot 2025-07-19 at 2 52 20 PM" src="https://github.com/user-attachments/assets/c6a0d900-8704-4d4b-95f8-8a2d0c503be0" />
+<img width="1436" height="901" alt="Screenshot 2025-07-19 at 2 52 20 PM" src="https://github.com/user-attachments/assets/c6a0d900-8704-4d4b-95f8-8a2d0c503be0" />
 
 ![App Screenshot](public/hero.png)
-
-![Live App Screenshot](https://beamish-stardust-0af66e.netlify.app/screenshot.png)
 
 ## Getting Started
 
@@ -33,8 +31,8 @@ A modern Netflix-inspired movie discovery app built with React, Vite, TailwindCS
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/netflix-clone-react-app.git
-   cd netflix-clone-react-app
+   git clone https://github.com/tanzimine/movie-store-web.git
+   cd movie-store-web
    ```
 2. **Install dependencies:**
    ```bash
@@ -59,6 +57,7 @@ A modern Netflix-inspired movie discovery app built with React, Vite, TailwindCS
    # or
    yarn dev
    ```
+   The app will be available at [http://localhost:5173](http://localhost:5173).
 
 ## Project Structure
 
@@ -85,7 +84,6 @@ A modern Netflix-inspired movie discovery app built with React, Vite, TailwindCS
 - [Appwrite](https://appwrite.io/)
 - [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api)
 
+## License
 
-
-
-# movie-store-web
+MIT
