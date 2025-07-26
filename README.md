@@ -11,9 +11,17 @@ A modern Netflix-inspired movie discovery app built with React, Vite, TailwindCS
 - ☁️ **Appwrite Integration**: Tracks search popularity and trending movies in real time.
 - 🌀 **Loading States**: Smooth loading spinners and error handling.
 
+## Demo
+
+**[Live Demo on Netlify](https://beamish-stardust-0af66e.netlify.app/)**
+
 ## Screenshots
 
+<img width="1436" height="901" alt="Screenshot 2025-07-19 at 2 52 20 PM" src="https://github.com/user-attachments/assets/c6a0d900-8704-4d4b-95f8-8a2d0c503be0" />
+
 ![App Screenshot](public/hero.png)
+
+![Live App Screenshot](https://beamish-stardust-0af66e.netlify.app/screenshot.png)
 
 ## Getting Started
 
